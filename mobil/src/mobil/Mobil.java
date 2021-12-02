@@ -18,7 +18,7 @@ public class Mobil extends Panel{
         g.setColor(Color.blue);
         g.fill3DRect(200,250,360,180,true);
         g.setColor(Color.blue);
-        g.fill3DRect(150,170,250,250,false);
+        g.fill3DRect(150,170,250,250,true);
         //ban
         g.setColor(Color.RED);
         g.fillArc(230,380,90,100,0,-180);
